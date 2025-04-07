@@ -5,8 +5,6 @@ This project analyzes bird monitoring data from 2018 across forest and grassland
 - **File:** `combined_bird_monitoring_data.csv`
 - **Records:** 24,154
 - **Columns:** Observational data including species, date, site, observer, temperature, behavior, and more.
-
-![Screenshot 2025-04-06 225357](https://github.com/user-attachments/assets/74fa7bad-2413-4a30-b107-e16304c1499e)
 ![Screenshot 2025-04-06 230258](https://github.com/user-attachments/assets/332369c8-4932-4f37-ba8e-caaed5780ac0)
 ![Screenshot 2025-04-06 230430](https://github.com/user-attachments/assets/a91faa72-31a8-41c0-b430-276bdab33d05)
 ![Screenshot 2025-04-06 230525](https://github.com/user-attachments/assets/19c54ba7-c0f6-415e-be50-d1634ad2874b)

@@ -11,8 +11,9 @@ This project analyzes bird monitoring data from 2018 across forest and grassland
 - Dynamic filtering by year, site, observer, species, sex, and temperature range
 - Summary EDA (total observations, species, sites, date range, etc.)
 - Option to download filtered dataset as CSV
-> Interactive visualizations with Plotly:
+# Interactive visualizations with Plotly:
 - Bar chart for Top 10 Most Observed Bird Species
+  
 ![Screenshot 2025-04-06 230430](https://github.com/user-attachments/assets/a91faa72-31a8-41c0-b430-276bdab33d05)
 - Pie chart for Sex Distribution
 

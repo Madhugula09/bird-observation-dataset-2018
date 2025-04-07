@@ -4,4 +4,5 @@ This project analyzes bird monitoring data from 2018 across forest and grassland
 
 
 
-screenshots/Screenshot_2025-04-06_225357.png)
+![Screenshot 2025-04-06 221510](https://github.com/user-attachments/assets/b6979dad-365b-4fe3-9945-e8c0cf25c968)
+

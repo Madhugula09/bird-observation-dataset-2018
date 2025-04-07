@@ -13,8 +13,8 @@ This project analyzes bird monitoring data from 2018 across forest and grassland
 - Option to download filtered dataset as CSV
 # Interactive visualizations with Plotly:
 - Bar chart for Top 10 Most Observed Bird Species
-  
-![Screenshot 2025-04-06 230430](https://github.com/user-attachments/assets/a91faa72-31a8-41c0-b430-276bdab33d05)
+- 
+![Screenshot 2025-04-06 230442](https://github.com/user-attachments/assets/1507c40b-d30e-4282-a4e2-ab2550d43771)
 - Pie chart for Sex Distribution
 
 ![Screenshot 2025-04-06 230525](https://github.com/user-attachments/assets/19c54ba7-c0f6-415e-be50-d1634ad2874b)

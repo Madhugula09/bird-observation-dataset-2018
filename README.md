@@ -6,6 +6,18 @@ This project analyzes bird monitoring data from 2018 across forest and grassland
 - **Records:** 24,154
 - **Columns:** Observational data including species, date, site, observer, temperature, behavior, and more.
 ![Screenshot 2025-04-06 230258](https://github.com/user-attachments/assets/332369c8-4932-4f37-ba8e-caaed5780ac0)
+## 🚀 Features
+
+- Dynamic filtering by year, site, observer, species, sex, and temperature range
+- Summary EDA (total observations, species, sites, date range, etc.)
+- Interactive visualizations with Plotly:
+  - Bar chart for Top 10 Most Observed Bird Species
+  - Pie chart for Sex Distribution
+  - Line chart for Observation Trends
+  - Heatmap of Species vs Site
+- Option to download filtered dataset as CSV
+
+
 ![Screenshot 2025-04-06 230430](https://github.com/user-attachments/assets/a91faa72-31a8-41c0-b430-276bdab33d05)
 ![Screenshot 2025-04-06 230525](https://github.com/user-attachments/assets/19c54ba7-c0f6-415e-be50-d1634ad2874b)
 ![Screenshot 2025-04-06 230545](https://github.com/user-attachments/assets/372b7106-18a9-44fa-8055-3269a437f2f0)

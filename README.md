@@ -1,5 +1,10 @@
 # bird-observation-dataset-2018
 This project analyzes bird monitoring data from 2018 across forest and grassland sites. It includes combining raw CSV files, storing data in MySQL, and building an interactive Streamlit dashboard for filtering, visualization, and exploration.
+## 📁 Dataset
+
+- **File:** `combined_bird_monitoring_data.csv`
+- **Records:** 24,154
+- **Columns:** Observational data including species, date, site, observer, temperature, behavior, and more.
 
 ![Screenshot 2025-04-06 225357](https://github.com/user-attachments/assets/74fa7bad-2413-4a30-b107-e16304c1499e)
 ![Screenshot 2025-04-06 230258](https://github.com/user-attachments/assets/332369c8-4932-4f37-ba8e-caaed5780ac0)

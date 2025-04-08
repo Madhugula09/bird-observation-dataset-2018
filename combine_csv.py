@@ -9,7 +9,7 @@ csv_path = r"C:\Users\madhugula padmavathi\Downloads\combined_bird_monitoring_da
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Padmavathi@09",  # 🔁 Replace with your password
+    password="Padmavathi@09",  
     database="bird_monitoring_db"
 )
 cursor = db.cursor()

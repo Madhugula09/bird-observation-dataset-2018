@@ -3,9 +3,9 @@ This project analyzes bird monitoring data from 2018 across forest and grassland
 ## 📁 Dataset
 
 - **File:** `combined_bird_monitoring_data.csv`
-- **Records:** 24,154
+- **Records:** 17077
 - **Columns:** Observational data including species, date, site, observer, temperature, behavior, and more.
-![Screenshot 2025-04-06 230258](https://github.com/user-attachments/assets/332369c8-4932-4f37-ba8e-caaed5780ac0)
+![Screenshot 2025-04-08 231339](https://github.com/user-attachments/assets/3ff71967-d1d6-464c-9ba4-9d7a010ca68d)
 ## 🚀 Features
 
 - Dynamic filtering by year, site, observer, species, sex, and temperature range

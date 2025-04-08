@@ -18,8 +18,8 @@ This project analyzes bird monitoring data from 2018 across forest and grassland
  ![Screenshot 2025-04-08 231433](https://github.com/user-attachments/assets/c84469e6-b189-40cc-93d6-173340feac8c)
 
 - Pie chart for Sex Distribution
+![Screenshot 2025-04-08 231539](https://github.com/user-attachments/assets/15ee0ddd-dd36-48a5-b09c-5979c1ef1532)
 
-![Screenshot 2025-04-06 230525](https://github.com/user-attachments/assets/19c54ba7-c0f6-415e-be50-d1634ad2874b)
 - Line chart for Observation Trends
  
 ![Screenshot 2025-04-06 230545](https://github.com/user-attachments/assets/372b7106-18a9-44fa-8055-3269a437f2f0)

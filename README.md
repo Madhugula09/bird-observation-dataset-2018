@@ -30,15 +30,16 @@ This project analyzes bird monitoring data from 2018 across forest and grassland
 ![Screenshot 2025-04-08 231640](https://github.com/user-attachments/assets/ea9daa51-820e-44bf-8175-895704de297d)
 
 #🌦️ Environmental Conditions vs Sightings
--Humidity vs Sightings
+
+-Bar chart for Humidity vs Sightings
 
 ![Screenshot 2025-04-08 231709](https://github.com/user-attachments/assets/ddbc9bef-e741-486e-9a47-ab719116f43f)
 
--Wind vs Sightings
+-Bar chart for Wind vs Sightings
 
 ![Screenshot 2025-04-08 231736](https://github.com/user-attachments/assets/783b1689-6568-4b13-a755-9ee725f7e6b6)
 
--Sky vs Sightings
+-Bar chart for Sky vs Sightings
 
 ![Screenshot 2025-04-08 231758](https://github.com/user-attachments/assets/fe066698-fa3a-42cc-96d5-a0843319f420)
 

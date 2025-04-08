@@ -26,6 +26,6 @@ This project analyzes bird monitoring data from 2018 across forest and grassland
 ![Screenshot 2025-04-06 230545](https://github.com/user-attachments/assets/372b7106-18a9-44fa-8055-3269a437f2f0)
 - Heatmap of Species vs Site
   
-![Screenshot 2025-04-06 230611](https://github.com/user-attachments/assets/5c638458-266a-4df2-95db-cb597d9094f2)
+![Screenshot 2025-04-08 231640](https://github.com/user-attachments/assets/ea9daa51-820e-44bf-8175-895704de297d)
 
 

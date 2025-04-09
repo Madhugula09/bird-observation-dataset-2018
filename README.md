@@ -4,12 +4,14 @@ This project analyzes bird monitoring data from 2018 across forest and grassland
 
 - **File:** `combined_bird_monitoring_data.csv`
 - **Records:** 17077
-- **Columns:** Observational data including species, date, site, observer, temperature, behavior, and more.
-![Screenshot 2025-04-08 231339](https://github.com/user-attachments/assets/3ff71967-d1d6-464c-9ba4-9d7a010ca68d)
+  
 ## 🚀 Features
-
 - Dynamic filtering by year, site, observer, species, sex, and temperature range
 - Summary EDA (total observations, species, sites, date range, etc.)
+- **Columns:** Observational data including species, date, site, observer, temperature, behavior, and more.
+  
+![Screenshot 2025-04-08 231339](https://github.com/user-attachments/assets/3ff71967-d1d6-464c-9ba4-9d7a010ca68d)
+
 
 # Interactive visualizations with Plotly:
 - Option to download filtered dataset as CSV
